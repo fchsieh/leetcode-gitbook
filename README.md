@@ -2,7 +2,7 @@
 description: 寫給自己看的
 ---
 
-# My LeetCode Solutions
+# Main
 
 ## 解題參考
 
