@@ -1,8 +1,8 @@
 ---
-description: 寫給自己看的
+description: LeetCode Notes created by Fred Hsieh
 ---
 
-# Main
+# My LeetCode Notes
 
 ## 解題參考
 
