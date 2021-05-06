@@ -2,7 +2,7 @@
 description: LeetCode Notes created by Fred Hsieh
 ---
 
-# My LeetCode Notes
+# Main
 
 ## 解題參考
 
@@ -21,6 +21,4 @@ description: LeetCode Notes created by Fred Hsieh
   * [Covid期間拿到G/FB/MS Offer - 2](https://www.ptt.cc/bbs/Soft_Job/M.1605588820.A.6C7.html)
   * [Covid期間拿到G/FB/MS Offer - 3](https://www.ptt.cc/bbs/Soft_Job/M.1605589986.A.CBA.html)
 * [Google embedded SWE \(包含 LC 相關\)](https://www.ptt.cc/bbs/Soft_Job/M.1613548617.A.C70.html)
-
-
 
