@@ -17,10 +17,13 @@
 * [Backtracking](leetcode-problems/backtracking/README.md)
   * [17. Letter Combinations of a Phone Number](leetcode-problems/backtracking/17.-letter-combinations-of-a-phone-number-1.md)
   * [78. Subsets](leetcode-problems/backtracking/78.-subsets-2.md)
+* [Dynamic Programming](leetcode-problems/dp/README.md)
+  * [583. Delete Operation for Two Strings](leetcode-problems/dp/583.-Delete-Operation-for-Two-Strings.md)
 * [Math](leetcode-problems/math/README.md)
   * [326. Power of Three](leetcode-problems/math/326.-power-of-three-1.md)
 
 ## Algorithms
 
 * [Dynamic Programming](algorithms/dynamic-programming/README.md)
-  * [Longest Common Substring](algorithms/dynamic-programming/lcs.md)
+  * [Longest Common Substring](algorithms/dynamic-programming/longest-common-substring.md)
+  * [Longest Common Subsequence](algorithms/dynamic-programming/longest-common-subsequence.md)
