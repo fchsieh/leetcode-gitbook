@@ -21,7 +21,7 @@ Find longest common *subsequence* of two inputs
     - `dp[i, j] = max(dp[i-1, j], dp[i, j-1])`
 
 - 例如 `word1` = `"xbxcxd"`, `word2` = `"abcd"`
-  - LCS = `xbcd`
+  - LCS = `bcd`
 
 ![](2021-05-07-23-34-21.png)
 
