@@ -23,4 +23,7 @@ Find longest common substring of two inputs
 
 ![](2021-05-07-21-35-47.png)
 
-- PS: Word1 在 row 或在 column 都沒差
+## Tips
+
+- word1/word2 在 row 或在 column 都沒差，table 建好就好
+- 記得 `dp[0,0]` 是 0，要從 `dp[0,1]` 或 `dp[1,0]` 開始建 table
