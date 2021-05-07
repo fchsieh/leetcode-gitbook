@@ -20,3 +20,7 @@
 * [Math](leetcode-problems/math/README.md)
   * [326. Power of Three](leetcode-problems/math/326.-power-of-three-1.md)
 
+## Algorithms
+
+* [Dynamic Programming](algorithms/dynamic-programming/README.md)
+  * [Longest Common Substring](algorithms/dynamic-programming/lcs.md)
