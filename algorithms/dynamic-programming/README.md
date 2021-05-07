@@ -1,3 +1,3 @@
 # Dynamic Programming
 
-* [Longest Common Substring]()
+* [Longest Common Substring](lcs.md)
