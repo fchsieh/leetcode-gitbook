@@ -15,10 +15,12 @@ Find longest common substring of two inputs
 
 -  例如 `word1` = `"abcde"`, `word2` = `"bcaa"`
    -  LCS = `bc`
+ 
 ![](2021-05-07-21-31-38.png)
 
 - 例如 `word1` = `"abcd"`, `word2` = `"bcdfg"`
   - LCS = `bcd`
+
 ![](2021-05-07-21-35-47.png)
 
 - PS: Word1 在 row 或在 column 都沒差
