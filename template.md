@@ -17,8 +17,10 @@ description:
 ## Result
 
 
-## Time and space complexity
+## Time and Space complexity
 
+- Time:
+- Space:
 
 ## Improvements
 
