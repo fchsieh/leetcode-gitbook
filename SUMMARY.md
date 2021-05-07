@@ -23,3 +23,4 @@
 ## Algorithms
 
 * [Dynamic Programming](algorithms/dynamic-programming/README.md)
+  * [Longest Common Substring](algorithms/dynamic-programming/lcs.md)
