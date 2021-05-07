@@ -28,4 +28,4 @@ Find longest common *subsequence* of two inputs
 ## Tips
 
 - 追蹤 Longest Common Subsequence:
-  - 比較麻煩，要記錄是從上、左、還是左上來的，如果 `dp[i, j]` 是由 `dp[i-1, j-1]+1` 而來，就是 subsequence
+  - 比較麻煩，要記錄是從上、左、還是左上來的，如果 `dp[i, j]` 是由 `dp[i-1, j-1]+1` 而來，就會是在 subsequence 中
