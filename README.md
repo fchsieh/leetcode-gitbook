@@ -4,6 +4,10 @@ description: LeetCode Notes created by Fred Hsieh
 
 # Main
 
+- GitHub link: [https://github.com/scdsr/leetcode-gitbook](https://github.com/scdsr/leetcode-gitbook)
+  - 如果覺得有用的話幫忙按個 star 吧
+  - 或是有錯誤的地方都可以發PR/Issue
+
 ## 解題參考
 
 * [YouTube - Back to back swe](https://www.youtube.com/results?search_query=back+to+back+swe)
