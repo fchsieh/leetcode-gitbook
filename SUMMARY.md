@@ -20,6 +20,7 @@
 * [Dynamic Programming](leetcode-problems/dp/README.md)
   * [583. Delete Operation for Two Strings](leetcode-problems/dp/583.-Delete-Operation-for-Two-Strings.md)
 * [Math](leetcode-problems/math/README.md)
+  * [204. Count Primes](leetcode-problems/math/204.-Count-Primes.md)
   * [326. Power of Three](leetcode-problems/math/326.-power-of-three-1.md)
   * [906. Super Palindromes](leetcode-problems/math/906.-Super-Palindromes.md)
 
