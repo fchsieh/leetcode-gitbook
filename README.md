@@ -26,3 +26,7 @@ description: LeetCode Notes created by Fred Hsieh
   * [Covid期間拿到G/FB/MS Offer - 3](https://www.ptt.cc/bbs/Soft_Job/M.1605589986.A.CBA.html)
 * [Google embedded SWE \(包含 LC 相關\)](https://www.ptt.cc/bbs/Soft_Job/M.1613548617.A.C70.html)
 
+## Links
+* [LeetCode](https://leetcode.com/fredhs/)
+* [GitHub](https://github.com/fchsieh)
+* [LinkedIn](https://www.linkedin.com/in/fredhs/)
