@@ -9,7 +9,7 @@ description: LeetCode Notes created by Fred Hsieh
   - 或是有錯誤的地方都可以發PR/Issue
 
 ## 解題參考
-
+* [YouTube - Lee215](https://www.youtube.com/channel/UCUBt1TDQTl1atYsscVoUzoQ)
 * [YouTube - Back to back swe](https://www.youtube.com/results?search_query=back+to+back+swe)
 * [YouTube - basketwangCoding](https://www.youtube.com/channel/UCE35PnPX7EZi8nHSegjMn6Q/videos)
 * [YouTube - Hua Hua](https://www.youtube.com/channel/UC5xDNEcvb1vgw3lE21Ack2Q)

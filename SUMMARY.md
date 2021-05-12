@@ -12,6 +12,7 @@
   * [55. Jump Game](leetcode-problems/greedy/55.-jump-game-1.md)
 * [Tree](leetcode-problems/tree/README.md)
   * [100. Same Tree](leetcode-problems/tree/100.-Same-Tree.md)
+  * [101. Symmetric Tree](leetcode-problems/tree/101.-Symmetric-Tree.md)
   * [104. Maximum Depth of Binary Tree](leetcode-problems/tree/104.-Maximum-Depth-of-Binary-Tree.md)
   * [109. Convert Sorted List to Binary Search Tree](leetcode-problems/tree/109.-Convert-Sorted-List-to-Binary-Search-Tree.md)
   * [589. N-ary Tree Preorder Traversal](leetcode-problems/tree/589.-n-ary-tree-preorder-traversal-1.md)
