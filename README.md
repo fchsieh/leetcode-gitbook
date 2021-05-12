@@ -12,6 +12,8 @@ description: LeetCode Notes created by Fred Hsieh
 
 - 想把自己解題的思路記錄下來，這樣以後需要複習、參考的時候比較方便
 - 主要會放自己覺得要思考過才懂的題目
+- 試過很多平台([Notion](https://www.notion.so/)、[BookStack](https://www.bookstackapp.com/))，後來發現還是 [GitBook](https://www.gitbook.com/) 好用
+  - GitBook 不用自己架設，而且可以連接 GitHub 同步寫作
 
 ## 解題參考
 * [YouTube - Lee215](https://www.youtube.com/channel/UCUBt1TDQTl1atYsscVoUzoQ)
