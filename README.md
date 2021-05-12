@@ -8,6 +8,11 @@ description: LeetCode Notes created by Fred Hsieh
   - 如果覺得有用的話幫忙按個 star 吧
   - 或是有錯誤的地方都可以發PR/Issue
 
+## About
+
+- 想把自己解題的思路記錄下來，這樣以後需要複習、參考的時候比較方便
+- 主要會放自己覺得要思考過才懂的題目
+
 ## 解題參考
 * [YouTube - Lee215](https://www.youtube.com/channel/UCUBt1TDQTl1atYsscVoUzoQ)
 * [YouTube - Back to back swe](https://www.youtube.com/results?search_query=back+to+back+swe)
