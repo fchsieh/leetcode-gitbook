@@ -33,6 +33,14 @@ description: LeetCode Notes created by Fred Hsieh
   * [Covid期間拿到G/FB/MS Offer - 3](https://www.ptt.cc/bbs/Soft_Job/M.1605589986.A.CBA.html)
 * [Google embedded SWE \(包含 LC 相關\)](https://www.ptt.cc/bbs/Soft_Job/M.1613548617.A.C70.html)
 
+## FAANG 面試相關
+
+- Amazon (BQ)
+  - [Holly Lee](https://www.youtube.com/c/HollyLeeCoaching/videos)
+  - [Dan Croitor](https://www.youtube.com/c/DanCroitor/videos)
+- Others
+  - [Dr. Nancy Li](https://www.youtube.com/channel/UCIXcpwAsd6uO6PQ7VaMbXpg)
+
 ## Links
 * [LeetCode](https://leetcode.com/fredhs/)
 * [GitHub](https://github.com/fchsieh)
