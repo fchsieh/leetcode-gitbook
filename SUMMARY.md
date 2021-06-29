@@ -37,3 +37,5 @@
 * [Dynamic Programming](algorithms/dynamic-programming/README.md)
   * [Longest Common Substring](algorithms/dynamic-programming/longest-common-substring.md)
   * [Longest Common Subsequence](algorithms/dynamic-programming/longest-common-subsequence.md)
+* [Graph](algorithms/graph/README.md)
+  * [Depth-first search](algorithms/graph/dfs.md)
