@@ -32,9 +32,9 @@ while stack:
 - Problem: [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - ![](2021-06-29-23-09-15.png)
 - 1 代表陸地，0 代表海洋，找出島嶼個數
-  - 很明顯的要使用 DFS 找出目前這個點所在的島嶼並標記路過
-  - 如果走到 "1" 且未被標記路過，則丟到 DFS 找出該陸地所屬島嶼的所有點位置
-- 中間有點亂，不過主要就是找所有可行的陸地位置，要避免 out-of-index
+  - 很明顯的要使用 DFS 找出目前這個點所在的島嶼，並標記該島嶼為"路過"
+  - 如果走到 "1" 且未被標記路過，則丟到 DFS 找出該"陸地"所屬島嶼的點的位置
+- 中間有點亂，不過主要就是找所有可行的陸地位置 (相鄰上下左右)，要避免 out-of-index
 
 ```python
 class Solution:
